@@ -1,5 +1,5 @@
 # Netflix
-Down below, I have answered a few questions about my netflix database in SQL
+Down below, I have answered a few questions about a netflix database in SQL
 
 Question 1. How many movie titles are there in the database? (movies only, not tv shows) 
 
